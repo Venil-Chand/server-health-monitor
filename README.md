@@ -1,6 +1,6 @@
 # Automated Server Health & Backup Log Monitor
 
-![Tests](https://github.com/YOUR-GITHUB-USERNAME/server-health-monitor/actions/workflows/tests.yml/badge.svg)
+[![Tests](https://github.com/Venil-Chand/server-health-monitor/actions/workflows/tests.yml/badge.svg)](https://github.com/Venil-Chand/server-health-monitor/actions/workflows/tests.yml)
 
 A lightweight Python command-line tool that checks a server's CPU, memory and disk usage, verifies the result of the most recent backup from a log file, flags anything that needs attention, and keeps a history of every check in a local SQLite database.
 
